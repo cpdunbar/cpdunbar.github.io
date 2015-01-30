@@ -6,4 +6,4 @@ layout: default
 
 Some chapter two content!
 
-[Back to Home](http://google.com)
+[Google](http://google.com)
