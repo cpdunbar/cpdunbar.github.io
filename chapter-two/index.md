@@ -6,4 +6,5 @@ layout: default
 
 Some chapter two content!
 
-[Google](http://google.com)
+* [Google](http://google.com)
+* [Yahoo](http://yahoo.com)
